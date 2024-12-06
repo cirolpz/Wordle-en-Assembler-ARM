@@ -1,4 +1,5 @@
 # Juego de Wordle en Ensamblador (Assembly ARMv6 - Raspberry Pi)
+![image](https://github.com/user-attachments/assets/17eb37a3-263b-46a0-9569-76992785a0f8)
 
 Este proyecto es un **juego de Wordle para consola**, desarrollado en lenguaje ensamblador ARMv6 para la **Raspberry Pi v1.2**. Representa la aplicación de técnicas de programación de bajo nivel aprendidas en la materia *Organización del Computador*.
 

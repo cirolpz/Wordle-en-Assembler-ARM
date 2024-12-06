@@ -90,7 +90,9 @@ Incluye las principales funciones y subrutinas:
 ---
 
 Si tienes preguntas o comentarios, no dudes en abrir un *issue*. ¡Gracias por revisar nuestro proyecto! 🚀
-Instrucciones para usar:
-Copia este contenido y pégalo en un archivo llamado README.md.
-Sube el archivo a tu repositorio de GitHub.
-Revisa el formato en la vista previa de GitHub; debería verse bien con encabezados, listas, emojis y enlaces funcionales.
+---
+## Instrucciones para usar:
+1. Copia este contenido y pégalo en un archivo llamado README.md.
+2. Sube el archivo a tu repositorio de GitHub.
+3. Revisa el formato en la vista previa de GitHub; debería verse bien con encabezados, listas, emojis y enlaces funcionales.
+---

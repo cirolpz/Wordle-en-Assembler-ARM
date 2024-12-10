@@ -1,7 +1,7 @@
 # Juego de Wordle en Ensamblador (Assembly ARMv6 - Raspberry Pi)
 ![image](https://github.com/user-attachments/assets/17eb37a3-263b-46a0-9569-76992785a0f8)
 ---
-##VIDEO
+VIDEO
 ---
 [![Video del Proyecto](https://img.youtube.com/vi/bTxkskolrQo/maxresdefault.jpg)](https://www.youtube.com/watch?v=bTxkskolrQo)
 - 
